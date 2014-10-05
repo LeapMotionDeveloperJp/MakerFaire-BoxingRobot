@@ -16,4 +16,5 @@ MakerFaire-BoxingRobot
 ## 出展後の横展開
 - HTML5カンファレンス
 - HTML5j Webプラットフォーム部での登壇
-- みんなのラズパイコンテスト(http://coin.nikkeibp.co.jp/coin/itpro-s/seminar/LIN/rpic15/[http://coin.nikkeibp.co.jp/coin/itpro-s/seminar/LIN/rpic15/])
+- みんなのラズパイコンテスト(http://coin.nikkeibp.co.jp/coin/itpro-s/seminar/LIN/rpic15/
+- )
